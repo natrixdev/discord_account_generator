@@ -1,4 +1,4 @@
-# discord_account_generator
+# Account Generator for [Discord](https://discord.com)
 ## By [natrix](https://github.com/natrixdev)
 
 #### Using Ja[vaScript](https://js.org)
@@ -47,5 +47,6 @@ if http_request_return <= 0{
   console.log(`Failed http request`)
 }
 ```
-
-
+ 
+ #### This is against discord ToS, try it at your ownn risks 
+#### natrix declines all responsibility for your actions
