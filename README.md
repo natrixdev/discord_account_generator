@@ -12,7 +12,7 @@ const request = require('requests')
 const http = require('http-lib')
 if discord<1: return;
 ```
-```NPM
+```JS
 >>> npm init & enter
 >>> npm i discord.js, random, requests, https-lib @latest --save
 ```
