@@ -19,4 +19,5 @@ try request & console.log(`$http_request_return`)
 if http_request_return >= 0{
   console.log(`new account created, ${username}, --${password}`)
   
- else return; 
+else http_request_return <= 0{
+  console.log(`Failed http request`)
